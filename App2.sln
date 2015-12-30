@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "App2", "App2\App2.jsproj", "{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}"
+EndProject
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "GoogleMaps", "GoogleMaps\GoogleMaps.jsproj", "{68F9BA8A-059B-4CD2-976E-296C4FA534FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Debug|ARM.ActiveCfg = Debug|ARM
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Debug|ARM.Build.0 = Debug|ARM
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Debug|ARM.Deploy.0 = Debug|ARM
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Debug|x64.ActiveCfg = Debug|x64
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Debug|x64.Build.0 = Debug|x64
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Debug|x64.Deploy.0 = Debug|x64
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Debug|x86.ActiveCfg = Debug|x86
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Debug|x86.Build.0 = Debug|x86
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Debug|x86.Deploy.0 = Debug|x86
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Release|ARM.ActiveCfg = Release|ARM
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Release|ARM.Build.0 = Release|ARM
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Release|ARM.Deploy.0 = Release|ARM
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Release|x64.ActiveCfg = Release|x64
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Release|x64.Build.0 = Release|x64
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Release|x64.Deploy.0 = Release|x64
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Release|x86.ActiveCfg = Release|x86
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Release|x86.Build.0 = Release|x86
+		{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}.Release|x86.Deploy.0 = Release|x86
+		{68F9BA8A-059B-4CD2-976E-296C4FA534FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F9BA8A-059B-4CD2-976E-296C4FA534FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F9BA8A-059B-4CD2-976E-296C4FA534FF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{68F9BA8A-059B-4CD2-976E-296C4FA534FF}.Debug|ARM.ActiveCfg = Debug|ARM
+		{68F9BA8A-059B-4CD2-976E-296C4FA534FF}.Debug|ARM.Build.0 = Debug|ARM
+		{68F9BA8A-059B-4CD2-976E-296C4FA534FF}.Debug|ARM.Deploy.0 = Debug|ARM
+		{68F9BA8A-059B-4CD2-976E-296C4FA534FF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{68F9BA8A-059B-4CD2-976E-296C4FA534FF}.Debug|x86.ActiveCfg = Debug|x86
+		{68F9BA8A-059B-4CD2-976E-296C4FA534FF}.Debug|x86.Build.0 = Debug|x86
+		{68F9BA8A-059B-4CD2-976E-296C4FA534FF}.Debug|x86.Deploy.0 = Debug|x86
+		{68F9BA8A-059B-4CD2-976E-296C4FA534FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F9BA8A-059B-4CD2-976E-296C4FA534FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F9BA8A-059B-4CD2-976E-296C4FA534FF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{68F9BA8A-059B-4CD2-976E-296C4FA534FF}.Release|ARM.ActiveCfg = Release|ARM
+		{68F9BA8A-059B-4CD2-976E-296C4FA534FF}.Release|ARM.Build.0 = Release|ARM
+		{68F9BA8A-059B-4CD2-976E-296C4FA534FF}.Release|ARM.Deploy.0 = Release|ARM
+		{68F9BA8A-059B-4CD2-976E-296C4FA534FF}.Release|x64.ActiveCfg = Release|Any CPU
+		{68F9BA8A-059B-4CD2-976E-296C4FA534FF}.Release|x86.ActiveCfg = Release|x86
+		{68F9BA8A-059B-4CD2-976E-296C4FA534FF}.Release|x86.Build.0 = Release|x86
+		{68F9BA8A-059B-4CD2-976E-296C4FA534FF}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

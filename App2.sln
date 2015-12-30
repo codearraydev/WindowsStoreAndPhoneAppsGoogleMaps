@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "App2", "App2\App2.jsproj", "{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}"
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "GoogleMapsWindowsStore", "App2\GoogleMapsWindowsStore.jsproj", "{FCC75083-A7FE-4E20-BBCD-62F0BAF72934}"
 EndProject
-Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "GoogleMaps", "GoogleMaps\GoogleMaps.jsproj", "{68F9BA8A-059B-4CD2-976E-296C4FA534FF}"
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "GoogleMapsWindowsPhone", "GoogleMaps\GoogleMapsWindowsPhone.jsproj", "{68F9BA8A-059B-4CD2-976E-296C4FA534FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
